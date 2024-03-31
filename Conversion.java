@@ -43,7 +43,6 @@ public class Conversion extends JFrame implements ActionListener {
 
             String dataInfo = robj.nextLine();
             textArea.append(dataInfo+"\n");
-            System.out.println(dataInfo);
 
         }
 
@@ -120,7 +119,7 @@ catch(FileNotFoundException e){
             String text=textArea.getText();
             //Updating the template file with further changes in textArea
             try (BufferedWriter writer = new BufferedWriter(new FileWriter("License.txt"))){
-                System.out.println(text);
+                    System.out.println(text);
                     writer.write(text);
                     writer.newLine();
             }

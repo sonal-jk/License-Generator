@@ -1,25 +1,25 @@
 SOFTWARE LICENSE AGREEMENT
 
-This Software License Agreement ("Agreement") is entered into as of  between Owner/Developer name ("Licensor") and Owner/Developer name ("Licensee") for the use of  ("Software").
+This Software License Agreement ("Agreement") is entered into as of 05-Mar-2024 between Owner/Developer name ("Licensor") and Individual/Entity getting rights ("Licensee") for the use of hellllooooooooooo ("Software").
 
 1. Definitions
-- "Software" refers to the computer program titled .
-- "Licensee" refers to Owner/Developer name, the individual or entity granted rights under this Agreement.
+- "Software" refers to the computer program titled hellllooooooooooo.
+- "Licensee" refers to Individual/Entity getting rights, the individual or entity granted rights under this Agreement.
 - "Licensor" refers to Owner/Developer name, the owner or developer of the Software.
 
 2. Grant of License
-Licensor hereby grants Licensee a non-exclusive, non-transferable license to use  in accordance with the terms and conditions set forth in this Agreement.
+Licensor hereby grants Licensee a non-exclusive, non-transferable license to use hellllooooooooooo in accordance with the terms and conditions set forth in this Agreement.
 
 3. Restrictions
 Licensee shall not:
-- Modify, translate, reverse engineer, or decompile .
-- Remove or alter any copyright notices or proprietary markings in .
-- Distribute or sublicense  to third parties without prior written consent from Licensor.
+- Modify, translate, reverse engineer, or decompile hellllooooooooooo.
+- Remove or alter any copyright notices or proprietary markings in hellllooooooooooo.
+- Distribute or sublicense hellllooooooooooo to third parties without prior written consent from Licensor.
 
 4. Terms and Conditions
-- Licensee agrees to use  solely for its internal business purposes and in compliance with all applicable laws and regulations.
-- Licensor provides  "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
-- In no event shall Licensor be liable for any damages arising out of the use or inability to use , even if Licensor has been advised of the possibility of such damages.
+- Licensee agrees to use hellllooooooooooo solely for its internal business purposes and in compliance with all applicable laws and regulations.
+- Licensor provides hellllooooooooooo "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+- In no event shall Licensor be liable for any damages arising out of the use or inability to use hellllooooooooooo, even if Licensor has been advised of the possibility of such damages.
 
 5. Payment
 Licensee agrees to pay Licensor the agreed-upon license fee as specified in Exhibit A attached hereto.
@@ -33,7 +33,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 8. Severability
 If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
-9. Entire Agreement
+9. Entire Agreement/home/sonal/Documents/home/sonal/Documents
 This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral.
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
@@ -43,4 +43,5 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective
 
 
 [Signature of Licensor]                       [Signature of Licensee]
-Owner/Developer name                                     Owner/Developer name
+Owner/Developer name                                     Individual/Entity getting rights
+
