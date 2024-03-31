@@ -38,5 +38,9 @@ This Agreement constitutes the entire agreement between the parties concerning t
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
 
-[Signature of Licensor] [Signature of Licensee]
-Acme Software Solutions Inc. Widget Corporation
+
+
+
+
+[Signature of Licensor]                       [Signature of Licensee]
+Acme Software Solutions Inc.                   Widget Corporation
