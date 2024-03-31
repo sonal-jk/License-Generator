@@ -10,7 +10,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 public class toPDF
 {
-    public static Boolean convertpdf(File file)
+    public static Boolean convertpdf(File file,String address)
     {
         Boolean written=false;
         //Blank Document
@@ -18,7 +18,7 @@ public class toPDF
         try
         {
             //Path of pdf file to be created if not existing already
-            PdfWriter writer = PdfWriter.getInstance(document, new FileOutputStream("./output/License.pdf"));
+            PdfWriter writer = PdfWriter.getInstance(document, new FileOutputStream(address+"/License.pdf"));
             document.open();
 
             //Write the Document in file system

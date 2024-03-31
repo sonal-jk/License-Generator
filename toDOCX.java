@@ -8,12 +8,12 @@ import org.apache.poi.xwpf.usermodel.XWPFParagraph;
 import org.apache.poi.xwpf.usermodel.XWPFRun;
 
 public class toDOCX {
- public static Boolean convertDOCX(File file)throws Exception  {
+ public static Boolean convertDOCX(File file,String address)throws Exception  {
   Boolean written=false;
   //Blank Document
   XWPFDocument document = new XWPFDocument();
   //Path of docx file to be created if not existing already
-  FileOutputStream out = new FileOutputStream( new File("./output/License.docx"));
+  FileOutputStream out = new FileOutputStream( new File(address+"/License.docx"));
 
   XWPFParagraph paragraph;
   XWPFRun run;
